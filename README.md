@@ -6,6 +6,6 @@ Data analyst in training, headed toward data science. Currently in two data anal
 
 **Recent work:**
 - 🛒 [E-commerce SQL Analysis (DecodeLabs)](https://github.com/beeoshokay/decodelabs_tasks/tree/main/Project%203) — GROUP BY, HAVING, subqueries, percentage-contribution breakdowns
-- 🎬 [Netflix/E-commerce EDA (AnalystLab)](In progress) — data cleaning and exploratory analysis in Python
+- 🎬 Netflix/E-commerce EDA (AnalystLab) — data cleaning and exploratory analysis in Python · *in progress*
 
 Building this in public. Expect commits, not perfection.
