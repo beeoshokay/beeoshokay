@@ -1,7 +1,6 @@
 ### Hi, I'm Blessing 👋
 
-**Data Analyst in training · Headed toward Data Science & AI in Health**
-Cleaning data, writing SQL, and learning to ask better questions of datasets.
+**Data Analyst in training · Headed toward Data Science & AI in Health**. Cleaning data, writing SQL, and learning to ask better questions of datasets.
 
 ---
 
